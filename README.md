@@ -2,6 +2,8 @@
 
 Projeto desenvolvido como requisito parcial para conclusão do módulo Front-end do curso de Desenvolvimento Web da Trybe. Nesse projeto foi desenvolvido um **carrinho de compras** totalmente dinâmico, consumindo dados diretamente da **API!** do Mercado Livre.
 
+<img width="1355" alt="Captura de Tela 2024-10-12 às 18 11 27" src="https://github.com/user-attachments/assets/5f34174a-569c-444c-b8d6-62295cfd4980">
+
 
 ## Habilidades desenvolvidas
 
